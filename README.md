@@ -3,8 +3,7 @@
 ### Date created
 2023-12-13
 
-### Project Title
-Bike share repository
+#Bike share data project
 
 ### Description
 Describe what your project is about and what it does
